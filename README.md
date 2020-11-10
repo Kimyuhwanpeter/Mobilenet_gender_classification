@@ -10,3 +10,4 @@
 * This version is mobilenet training in this paper.
 * 2-fold cross validiation
 * Use test accuracy during training instead of validation accuracy
+* For my generated images from proposed method, first fold acc was 81.71 % (train-16,081, test-16,081)
