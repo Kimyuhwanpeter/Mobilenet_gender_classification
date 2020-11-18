@@ -15,3 +15,5 @@
 * First fold acc 92.81% (Morph)
 * Second fild acc 93.74 % (Morph)
 * Final - 81.59 % for AFAD, 93.28 % for Morph
+
+* First fold acc 97.93 % (original AFAD)
