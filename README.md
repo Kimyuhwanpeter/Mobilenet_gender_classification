@@ -16,14 +16,17 @@
 * Second fild acc 93.74 % (Morph)
 * Final - 81.59 % for AFAD, 93.28 % for Morph
 <br/>
+
 * First fold acc 97.93 % (original AFAD)
 * Second fold acc 99.79 % (original AFAD)
 * Orginal acc 98.86 % (original AFAD)
 <br/>
+
 * First fold acc 99.56 % (original Morph)
 * Second fold acc 99.95 % (original Morph)
 * Orginal acc 99.75 % (original Morph)
 <br/>
+
 * Train (original AFAD), Test (generated AFAD) 1-fold acc is 98.3 %
 * Train (original AFAD), Test (generated AFAD) 2-fold acc is 99.99 %
 * Train (original AFAD), Test (generated AFAD) acc is 99.15 %
