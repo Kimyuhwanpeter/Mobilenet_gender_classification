@@ -33,3 +33,5 @@
 <br/>
 
 * Train (original Morph), Test (generated Morph) 1-fold acc is 99.63 %
+* Train (original Morph), Test (generated Morph) 2-fold acc is 99.96 %
+* Train (original Morph), Test (generated Morph) acc is 99.8 %
