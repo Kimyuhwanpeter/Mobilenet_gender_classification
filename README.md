@@ -30,3 +30,6 @@
 * Train (original AFAD), Test (generated AFAD) 1-fold acc is 98.3 %
 * Train (original AFAD), Test (generated AFAD) 2-fold acc is 99.99 %
 * Train (original AFAD), Test (generated AFAD) acc is 99.15 %
+<br/>
+
+* Train (original Morph), Test (generated Morph) 1-fold acc is 99.63 %
